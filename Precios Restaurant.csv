@@ -1,0 +1,78 @@
+Producto,Tipo,Precio,Costo
+Refresco,Bebida no Alcohol,$20.00,$16.00
+Limonada,Bebida no Alcohol,$25.00,$20.00
+Naranjada,Bebida no Alcohol,$25.00,$18.25
+Tisana,Bebida no Alcohol,$25.00,$18.00
+Te helado,Bebida no Alcohol,$25.00,$18.50
+Café americano,Bebida no Alcohol,$18.00,$12.60
+Capuccino,Bebida no Alcohol,$30.00,$21.60
+Espresso,Bebida no Alcohol,$20.00,$14.60
+Prímula Espresso,Bebida no Alcohol,$25.00,$17.75
+Modelo,Cervezas,$30.00,$23.70
+Tecate,Cervezas,$25.00,$18.00
+Pacifico,Cervezas,$30.00,$21.90
+Victoria,Cervezas,$30.00,$21.30
+Minerva,Cervezas,$40.00,$32.40
+Corona,Cervezas,$30.00,$24.90
+Indio,Cervezas,$25.00,$21.25
+Vino 1,Vinos,$587.00,$422.64
+Vino 2,Vinos,$545.00,$397.85
+Vino 3,Vinos,$670.00,$415.40
+Vino 4,Vinos,$410.00,$270.60
+Vino 5,Vinos,$758.00,$553.34
+Vino 6,Vinos,$715.00,$536.25
+Vino 7,Vinos,$748.00,$501.16
+Vino 8,Vinos,$383.00,$256.61
+Vino 9 ,Vinos,$647.00,$478.78
+Vino 10,Vinos,$708.00,$431.88
+Brochetas Hawaiianas,Entradas,$74.00,$64.35
+Camarones Momia,Entradas,$75.00,$65.22
+Espárragos Envueltos,Entradas,$78.00,$67.83
+Mejillones Horneados,Entradas,$75.00,$65.22
+Panela a la Leña,Entradas,$53.00,$46.09
+Portobello Confitado,Entradas,$64.00,$55.65
+Rollos Prímula,Entradas,$73.00,$63.48
+Tártara de atún/salmón Frescto,Entradas,$79.00,$68.70
+Quesadillas Gobernador,Tacos,$78.00,$67.83
+Tacos Arrachera,Tacos,$79.00,$68.70
+Tacos Capeados,Tacos,$75.00,$65.22
+Pesto & Camarón,Pizzas,$125.00,$108.70
+Salmón Ahumado,Pizzas,$135.00,$117.39
+Del Cheff,Pizzas,$135.00,$117.39
+Italiana,Pizzas,$123.00,$106.96
+Margarita,Pizzas,$105.00,$91.30
+Mexicana,Pizzas,$115.00,$100.00
+Pollo al Pastor,Pizzas,$115.00,$100.00
+Pizza Prímula,Pizzas,$105.00,$91.30
+Tropical,Pizzas,$125.00,$108.70
+Camarones al Coco,Ensaladas,$84.00,$73.04
+Cítricos,Ensaladas,$69.00,$60.00
+Pera Rostizada,Ensaladas,$89.00,$77.39
+Salmón,Ensaladas,$84.00,$73.04
+Del Huerto,Ensaladas,$65.00,$56.52
+Frutos del Bosque,Ensaladas,$83.00,$72.17
+Ensalada Prímula,Ensaladas,$80.00,$69.57
+Lasagna Ratatouille,Pastas,$75.00,$65.22
+Pasta 4 Quesos,Pastas,$69.00,$60.00
+Pasta Alfredo,Pastas,$67.00,$58.26
+Pasta de Tomate Deshidratado,Pastas,$65.00,$56.52
+Pollo Silvestre,Platos Fuertes,$125.00,$108.70
+Margret de Pato,Platos Fuertes,$198.00,$172.17
+Vacío,Platos Fuertes,$164.00,$142.61
+Arrachera del Chef,Platos Fuertes,$135.00,$117.39
+Salmón al Pesto,Platos Fuertes,$174.00,$151.30
+Atún Encostrado,Platos Fuertes,$178.00,$154.78
+Pay de Temporada,Postres,$42.00,$36.52
+Tiramisú,Postres,$42.00,$36.52
+Esfera del Cheff,Postres,$50.00,$43.48
+Pan de Elote,Postres,$40.00,$34.78
+Pannacotta Vainilla y Café,Postres,$40.00,$34.78
+Strudel de Manzana,Postres,$45.00,$39.13
+Kani,Sushi,$65.00,$56.52
+Ebi,Sushi,$65.00,$56.52
+Sake,Sushi,$75.00,$65.22
+Tako,Sushi,$75.00,$65.22
+Empanizado,Sushi,$65.00,$56.52
+Philadelphia,Sushi,$75.00,$65.22
+Tempura,Sushi,$75.00,$65.22
+California Horizonte,Sushi,$65.00,$56.52
